@@ -1,0 +1,28 @@
+{
+	version: 1
+	uuid: "0fa79ddae5743024810547057a252aa1"
+	name: "HaDoeteo"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		047C5CB3ED9A8E47: 1
+		7CE16FEEA03DBE1F: 1
+		2394AAEC1A9810DD: 1
+	}
+	started: {
+		7CE16FEEA03DBE1F: 1734470031068L
+		4523079E2318BD94: 1734470031068L
+		2583DDB195B6CFEA: 1734470031068L
+		0000000000000001: 1734470031068L
+		2C6177EDC934F9DC: 1734470031069L
+		047C5CB3ED9A8E47: 1734470031069L
+		2394AAEC1A9810DD: 1734470188289L
+		103C05E04D0AEB52: 1734470188289L
+	}
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
