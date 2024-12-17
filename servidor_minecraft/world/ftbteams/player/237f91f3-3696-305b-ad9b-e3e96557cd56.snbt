@@ -1,0 +1,17 @@
+{
+	id: "237f91f3-3696-305b-ad9b-e3e96557cd56"
+	type: "player"
+	player_name: "XxRaizingXx"
+	ranks: {
+		237f91f3-3696-305b-ad9b-e3e96557cd56: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "XxRaizingXx"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59C4FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
