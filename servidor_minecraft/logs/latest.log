@@ -1036,3 +1036,23 @@
 [17Dec2024 21:20:40.024] [Server thread/INFO] [tac/]: PENDING
 [17Dec2024 21:20:47.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [17Dec2024 21:20:47.156] [Server thread/INFO] [tac/]: PENDING
+[17Dec2024 21:21:39.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaDoeteo has made the advancement [A Bone to Pick]
+[17Dec2024 21:22:09.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaDoeteo: Teleported HaDoeteo to XxRaizingXx]
+[17Dec2024 21:22:30.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [XxRaizingXx: Set the time to 1000]
+[17Dec2024 21:22:30.331] [Server thread/INFO] [sereneseasons/]: Season time skipped by 12399 in minecraft:overworld
+[17Dec2024 21:22:30.343] [Server thread/INFO] [sereneseasons/]: Season time skipped by 12399 in lostcities:lostcity
+[17Dec2024 21:22:30.344] [Server thread/INFO] [sereneseasons/]: Season time skipped by 12399 in deceasedcraft:abyss
+[17Dec2024 21:22:30.344] [Server thread/INFO] [sereneseasons/]: Season time skipped by 12399 in minecraft:the_nether
+[17Dec2024 21:22:30.344] [Server thread/INFO] [sereneseasons/]: Season time skipped by 12399 in minecraft:the_end
+[17Dec2024 21:22:36.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaDoeteo has made the advancement [Ant Farm]
+[17Dec2024 21:22:45.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [XxRaizingXx: Gamerule doDaylightCycle is now set to: false]
+[17Dec2024 21:22:56.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [XxRaizingXx: Teleported HaDoeteo to XxRaizingXx]
+[17Dec2024 21:23:07.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaDoeteo: Set own game mode to Survival Mode]
+[17Dec2024 21:23:21.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [XxRaizingXx: Set own game mode to Survival Mode]
+[17Dec2024 21:23:41.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HaDoeteo: Set own game mode to Creative Mode]
+[17Dec2024 21:26:11.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaDoeteo has made the advancement [... for Salvation]
+[17Dec2024 21:27:04.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [XxRaizingXx: Set own game mode to Creative Mode]
+[17Dec2024 21:27:42.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaDoeteo has made the advancement [Mariachi?]
+[17Dec2024 21:27:54.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HaDoeteo has completed the challenge [Mariachi!]
+[17Dec2024 21:28:04.148] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[17Dec2024 21:30:22.677] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN

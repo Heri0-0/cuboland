@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-17 21:17:38 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2024-12-17 21:13:50 +0000"
@@ -192,6 +198,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2024-12-17 21:22:36 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2024-12-17 21:13:50 +0000"
@@ -306,6 +318,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-17 21:17:38 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-17 21:13:50 +0000"
@@ -339,6 +357,12 @@
   "comforts:hammock_orange": {
     "criteria": {
       "has_the_recipe": "2024-12-17 21:13:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/squid_grapple": {
+    "criteria": {
+      "capsid": "2024-12-17 21:26:11 +0000"
     },
     "done": true
   },
@@ -490,6 +514,12 @@
     "criteria": {
       "has_blazepowder": "2024-12-17 21:13:50 +0000",
       "has_bolt": "2024-12-17 21:13:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/fish_bones": {
+    "criteria": {
+      "sopa_de_macaco": "2024-12-17 21:21:39 +0000"
     },
     "done": true
   },
